@@ -8,6 +8,7 @@
   "license": "MIT",
   "scripts": {
     "once": "node ./src/js/once.js",
-    "curry": "node ./src/js/curry.js"
+    "curry": "node ./src/js/curry.js",
+    "partial": "node ./src/js/partial.js"
   }
 }

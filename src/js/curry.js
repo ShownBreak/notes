@@ -23,4 +23,4 @@ const curry = (fn) => {
 
 const multiFn = (a, b, c, d) => a + b + c + d;
 
-console.log(curry(multiFn)(1)(2)(3));
+console.log(curry(multiFn)(1)(2)(3)(4));
