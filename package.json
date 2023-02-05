@@ -1,0 +1,13 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "记录技术文章，和一些函数",
+  "main": "index.js",
+  "repository": "https://github.com/ShownBreak/notes.git",
+  "author": "ShownBreak <1083463827@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "once": "node ./src/js/once.js",
+    "curry": "node ./src/js/curry.js"
+  }
+}
